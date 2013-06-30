@@ -51,5 +51,5 @@ DEPENDENCIES
   jwt
   rest-client
   savon
-  sinatra (~> 1.1)
+  sinatra
   slim
